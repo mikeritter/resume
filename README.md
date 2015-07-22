@@ -29,14 +29,24 @@ My technical know-how ranges from experienced to beginner in today's Web stack. 
 <td> PHP</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
 </tr>
 <tr>
+<td> RUBY</td> <td>&#9733;&#9733;&#9734;&#9734;&#9734;</td>
+</tr>
+<tr>
+<td> ECMA</td> <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
+</tr>
+<tr>
+<td> YAML/JSON</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+</tr>
+<tr>
 <td> WordPress</td> <td>&#9733;&#9733;&#9733;&#9733;&#9734;</td>
 </tr>
 <tr>
 <td> Git</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
 </tr>
 <tr>
-<td> YAML/JSON</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+<td> Microdata</td> <td>&#9733;&#9733;&#9733;&#9733;&#9734;</td>
 </tr>
+</tbody>
 </table>
 ## Knowlegde, Skills and Abilities
 
@@ -48,7 +58,7 @@ When my client has that de facto business plan, they know who they are, what the
 
 ### Writing
 
-Most customers aren't looking for feature-length content while they're surfing the web for a place to eat, shop, or worship. I help clients reach their audience with a compelling action statement. If I had a button on this resume, it would say "Let's Talk!" because, if I've done my job, you're cutious enough to want to reach out and see if I'm right for your team.
+Most customers aren't looking for feature-length content while they're surfing the web for a place to eat, shop, or worship. I help clients reach their audience with a compelling action statement. If I had a button on this resume, it would say "Let's Talk!" because, if I've done my job, you're curious enough to want to reach out and see if I'm right for your team.
 
 ### Social Media
 
