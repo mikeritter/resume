@@ -23,13 +23,13 @@ My technical know-how ranges from experienced to beginner in today's Web stack. 
 </thead>
 <tbody>
 <tr>
-<td> HTML(5)/(S)CSS(3)</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+<td> HTML(5)/(S)CSS(3)</td> <td>&#9733;&#9733;&#9733;&#9733;&#9734;</td>
 </tr>
 <tr>
 <td> PHP</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
 </tr>
 <tr>
-<td> WordPress</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+<td> WordPress</td> <td>&#9733;&#9733;&#9733;&#9733;&#9734;</td>
 </tr>
 <tr>
 <td> Git</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
