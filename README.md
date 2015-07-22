@@ -18,7 +18,7 @@ My technical know-how ranges from experienced to beginner in today's Web stack. 
 <thead>
 <caption>Today's Technology</caption>
 <tr>
-<th scope="col">Technology</th><th scope="col>Self evaluation</th>
+<th scope="col">Technology</th><th scope="col">Self evaluation</th>
 </tr>
 </thead>
 <tbody>
