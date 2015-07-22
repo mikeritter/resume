@@ -15,10 +15,13 @@ As a contractor, I collaborate with the development team to implement the final 
 My technical know-how ranges from experienced to beginner in today's Web stack. I'm a big thinker, but a team player. My resourcefulness and tenacity prove vital in finding my way through a tough problem.
 
 <table style="width:100%">
+<thead>
 <caption>Today's Technology</caption>
 <tr>
 <th scope="col">Technology</th><th scope="col>Self evaluation</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>### HTML(5)/(S)CSS(3)</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
 </tr>
@@ -36,7 +39,6 @@ My technical know-how ranges from experienced to beginner in today's Web stack. 
 </tr>
 <tr>
 <td colspan=2>### Operating Systems
-<table>
 <tr>
 <th scope="row">OS X</th><td> &#9733;&#9733;&#9733;&#9733;&#9734;</td>
 </tr>
@@ -46,7 +48,6 @@ My technical know-how ranges from experienced to beginner in today's Web stack. 
 <tr>
 <th scope="row">VirtualBox/Vagrant</th><td> &#9733;&#9733;&#9734;&#9734;&#9734;</td>
 </tr>
-</table>
 </td>
 </tr>
 </table>
