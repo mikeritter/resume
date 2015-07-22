@@ -29,10 +29,10 @@ My technical know-how ranges from experienced to beginner in today's Web stack. 
 <td> PHP</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
 </tr>
 <tr>
-<td> RUBY</td> <td>&#9733;&#9733;&#9734;&#9734;&#9734;</td>
+<td> RUBY</td> <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
 </tr>
 <tr>
-<td> ECMA</td> <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
+<td> ECMA</td> <td>&#9733;&#9733;&#9734;&#9734;&#9734;</td>
 </tr>
 <tr>
 <td> YAML/JSON</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
