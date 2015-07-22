@@ -14,7 +14,7 @@ As a contractor, I collaborate with the development team to implement the final 
 
 My technical know-how ranges from experienced to beginner in today's Web stack. I'm a big thinker, but a team player. My resourcefulness and tenacity prove vital in finding my way through a tough problem.
 
-<table style="width:100%">
+<table style="width:100%; table-layout="fixed">
 <thead>
 <caption>Today's Technology</caption>
 <tr>
