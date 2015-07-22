@@ -37,19 +37,6 @@ My technical know-how ranges from experienced to beginner in today's Web stack. 
 <tr>
 <td>### YAML/JSON</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
 </tr>
-<tr>
-<td colspan=2>### Operating Systems
-<tr>
-<th scope="row">OS X</th><td> &#9733;&#9733;&#9733;&#9733;&#9734;</td>
-</tr>
-<tr>
-<th scope="row">Windows 7</th><td> &#9733;&#9733;&#9733;&#9734;&#9734;</td>
-</tr>
-<tr>
-<th scope="row">VirtualBox/Vagrant</th><td> &#9733;&#9733;&#9734;&#9734;&#9734;</td>
-</tr>
-</td>
-</tr>
 </table>
 ## Knowlegde, Skills and Abilities
 
