@@ -12,9 +12,9 @@ As a contractor, I collaborate with the development team to implement the final 
 
 ## Technical Experience
 
-My technical know-how ranges from experienced to beginner in today's Web stack. I'm a big thinker, but a team player. My resourcefulness and tenacity prove vital in finding my way through a tough problem.
+My technical know-how ranges from experienced to beginner in today's Web stack.  I'm an academic: focused on making sure things are done correctly, but a team player. My resourcefulness and tenacity prove vital in finding my way through a tough problem. I'll comb through code for standards compliance and test it before launching out (that includes responsiveness).
 
-<table style="width:100%; table-layout="fixed">
+<table style="width:100%; table-layout:fixed">
 <thead>
 <caption>Today's Technology</caption>
 <tr>
@@ -23,37 +23,37 @@ My technical know-how ranges from experienced to beginner in today's Web stack. 
 </thead>
 <tbody>
 <tr>
-<td>### HTML(5)/(S)CSS(3)</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+<td> HTML(5)/(S)CSS(3)</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
 </tr>
 <tr>
-<td>### PHP</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+<td> PHP</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
 </tr>
 <tr>
-<td>### WordPress</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+<td> WordPress</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
 </tr>
 <tr>
-<td>### Git</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+<td> Git</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
 </tr>
 <tr>
-<td>### YAML/JSON</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+<td> YAML/JSON</td> <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
 </tr>
 </table>
 ## Knowlegde, Skills and Abilities
 
 Some days I really feel like I'm jut starting out. Then, I have coffee with a friend or colleague and realize the web developer market is full of technicians and hobbyists just coloring by numbers. Digging beneath the surface reveals a shaky foundation sure to crumble because the developer cut corners. Most of my experience has been in these casual conversations. Some clients passed on because they just wanted a quick fix. I've been in over my head too many times. In it all, I've gained important experience.
 
-### Marketing
+ Marketing
 
 When my client has that de facto business plan, they know who they are, what they offer, why they are on the web and how to work their tools. Whether they want to generate leads or just have a passive presence on the web to boost legitimacy, they know what to expect of their product.
 
-### Writing
+ Writing
 
 Most customers aren't looking for feature-length content while they're surfing the web for a place to eat, shop, or worship. I help clients reach their audience with a compelling action statement. If I had a button on this resume, it would say "Let's Talk!" because, if I've done my job, you're cutious enough to want to reach out and see if I'm right for your team.
 
-### Social Media
+ Social Media
 
 I love showing a client how social media is their best friend on the Internet. I've helped clients use their phone to engage interest on Instagram, FaceBook and Twitter. They just needed some direction. As a web developer, I understand my responsibility is to integrate the disperate information into a cohesive platform. Which leads me to...
 
-### Web Optimization
+ Web Optimization
 
 You thought I was going to say <abbr title="search engine optimization">SEO</abbr> didn't you? Nah. We all know that's chasing your tail. Using Open Web Protocols is how we _really_ make content viewable, digestible, and shareable today! Sure, I'll throw in key phrase optimization and work with the client (or copywriter) to craft the content, but it's about so much more than key words.
