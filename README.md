@@ -1,6 +1,6 @@
 # Mike Ritter
 
-## Website Development and Consulting in Myrtle Beach, SC
+## Website Development and Consulting
 
 I've been building websites since 1997. I picked it up as a hobby when paralysis left me unable to draw and draft. I poured the energy of technical design into code. From the early days of static websites to integrating server-side includes and Flash animations I grew with the technology. I picked up web design again after leaving my career in social services.
 
@@ -48,6 +48,7 @@ My technical know-how ranges from experienced to beginner in today's Web stack. 
 </tr>
 </tbody>
 </table>
+
 ## Knowlegde, Skills and Abilities
 
 Some days I really feel like I'm jut starting out. Then, I have coffee with a friend or colleague and realize the web developer market is full of technicians and hobbyists just coloring by numbers. Digging beneath the surface reveals a shaky foundation sure to crumble because the developer cut corners. Most of my experience has been in these casual conversations. Some clients passed on because they just wanted a quick fix. I've been in over my head too many times. In it all, I've gained important experience.
